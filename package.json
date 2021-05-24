@@ -1,0 +1,31 @@
+{
+  "publisher": "barryz",
+  "name": "little-theme-light",
+  "displayName": "little-theme-light",
+  "description": "little-theme-light",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "little-theme-light",
+        "uiTheme": "vs",
+        "path": "./themes/little-color-theme.json"
+      }
+    ]
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/haobarry/little-theme-light/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haobarry/little-theme-light"
+  },
+  "homepage": "https://github.com/haobarry/little-theme-light/master/README.md"
+}
